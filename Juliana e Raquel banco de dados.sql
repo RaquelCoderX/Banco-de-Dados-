@@ -1,3 +1,4 @@
+-- 14/03/2025 - 3 SEMESTRE TADS
 CREATE DATABASE loja;
 USE loja;
 
